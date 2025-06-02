@@ -19,8 +19,11 @@
 
 ## Emphasis
 *italic* or _italic_
+
 **bold** or __bold__
+
 ***bold italic***
+
 ~~strikethrough~~
 ```markdown
 *italic* or _italic_
