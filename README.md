@@ -1,4 +1,3 @@
-
 # Markdown Cheat Sheet
 
 ## Headings
